@@ -1,0 +1,1 @@
+[{"uid":"72d0c32b32a15f82","name":"Non-Input File Upload","time":{"start":1671533696426,"stop":1671533702081,"duration":5655},"status":"passed","severity":"normal"},{"uid":"6b213e9fb6e093fd","name":"Shadow DOM","time":{"start":1671533696392,"stop":1671533701686,"duration":5294},"status":"failed","severity":"normal"}]
